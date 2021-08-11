@@ -1,0 +1,61 @@
+body{
+    font-family: arial, helvetica;
+    background: #e8eefc !important;
+    inline-size: 100%;
+}
+.navbar li a{
+    line-height: 5vw;
+}
+.broadcaster{
+    width: 11vw;
+    height: 16vw;
+    background: white;
+   border-radius: 20px;
+   list-style: none;
+   display: inline-block;
+}
+.rectangulo{
+    width: 11vw;
+    height: 50px;
+    background:#4f7af0;
+    border-radius: 20px 20px 0px 0px;
+    list-style: none;
+    text-align: center;
+    color: white;
+    display: inline-block;
+}
+.league{
+    width: 11vw;
+    height: 16vw;
+    background: white;
+   border-radius: 20px;
+   list-style: none;
+   display: inline-block;
+}
+.teams{
+    width: 11vw;
+    height: 16vw;
+    background: white;
+   border-radius: 20px;
+   list-style: none;
+   display: inline-block;
+}
+.rectanguloT{
+    width: 50vw;
+    height: 87vw;
+    background: white;
+   border-radius: 20px;
+   list-style: none;
+   display: inline-block;
+}
+.rectanguloS{
+    width: 15vw;
+    height: 3vw;
+    background:#4f7af0;
+    border-radius: 0px 20px 20px 0px;
+    list-style: none;
+    text-align: center;
+    color: white;
+    display: inline-block;
+}
+
